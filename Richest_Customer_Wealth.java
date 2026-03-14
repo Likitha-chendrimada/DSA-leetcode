@@ -1,5 +1,5 @@
  /*
-     Problem #1295:
+     Problem #1672:
      Given a 2D array where each row represents a customer and each column
      represents the money in their bank accounts, return the maximum wealth
      among all customers.
