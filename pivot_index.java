@@ -10,8 +10,8 @@ Check: leftSum == totalSum- l eftSum - nums[i]
 If true return index, else update leftSum
 
 Complexity:
-Time: O(n)
-Space: O(1)
+Time:O(n)
+Space:O(1)
 */
 
 class Solution {
