@@ -1,6 +1,6 @@
 
 /*
-Problem #
+Problem #121: 
 Given an array prices[], find the maximum profit by buying on one day and selling on a later day.
 Return 0 if no profit can be made.
 
@@ -9,7 +9,6 @@ Track the minimum price so far and compute profit for each day.
 Update the maximum profit whenever a higher profit is found.
 
 Time Complexity: O(n) 
-
 Space Complexity: O(1)
 */
 
